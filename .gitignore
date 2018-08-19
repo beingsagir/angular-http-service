@@ -9,7 +9,7 @@
 /node_modules
 
 # IDEs and editors
-/.idea
+/.idea``
 .project
 .classpath
 .c9/
@@ -21,7 +21,7 @@
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
-!.vscode/launch.json
+!.vscode/launch.json`
 !.vscode/extensions.json
 
 # misc
